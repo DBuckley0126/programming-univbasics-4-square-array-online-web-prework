@@ -1,7 +1,7 @@
 def square_array(array)
   
   counter = 0
-  new_numbers[]
+  new_numbers = []
   
   while array[counter] do
     
